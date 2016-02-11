@@ -1,0 +1,23 @@
+_repo: Barbe-bleue_50278
+creator:
+  author:
+    agent_name: Méténier, Oscar
+    alias: Metenier, Oscar
+    birthdate: 1859
+    deathdate: 1913
+    gutenberg_agent_id: '4892'
+    url: http://www.gutenberg.org/2009/agents/4892
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Nouveautés
+gutenberg_issued: '2015-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50278'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Barbe-bleue
+url: http://www.gutenberg.org/ebooks/50278
