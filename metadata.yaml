@@ -1,4 +1,8 @@
 _repo: Barbe-bleue_50278
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50278-h/images/cover.jpg
 creator:
   author:
     agent_name: Méténier, Oscar
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '4892'
     url: http://www.gutenberg.org/2009/agents/4892
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50278#Barbe-bleue
 gutenberg_bookshelf:
 - FR Littérature
 - FR Nouveautés
